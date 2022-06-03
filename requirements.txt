@@ -1,4 +1,4 @@
-bottle==0.12.8
+bottle==0.12.20
 gevent==1.0.1
 gnureadline==6.3.3
 greenlet==0.4.4
